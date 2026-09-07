@@ -2,24 +2,24 @@ about:
   description: "Blazing-fast Data-Wrangling toolkit"
   license: NOASSERTION
   homepage: https://qsv.dathere.com
-  head: c191afc
+  head: 3aa7ad6
   archived: false
   latestVersion: "22.0.1"
-  collectedAt: 2026-09-07T06:03:03Z
+  collectedAt: 2026-09-07T18:29:47Z
 timeline:
   created: 2020-12-11
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-08
 popularity:
-  star: 3775
+  star: 3776
   watcher: 16
   fork: 108
   release: 233
   contributor: 80
-  pullRequest: 3493
-  issue: 856
+  pullRequest: 3496
+  issue: 857
 language:
-  Rust: 12099138
+  Rust: 12128667
   Shell: 998222
   TypeScript: 929238
   HTML: 493253
@@ -31,7 +31,7 @@ language:
   Nushell: 61701
   Luau: 3423
   Go Template: 2135
-totalBytes: 15730187
+totalBytes: 15759716
 recent:
   last30d:
     since: 2026-08-08
@@ -83,19 +83,19 @@ recent:
     commit: 0
 total:
   release: 233
-  mergedPR: 3311
-  openPR: 1
-  closedIssue: 826
+  mergedPR: 3313
+  openPR: 2
+  closedIssue: 827
   openIssue: 30
-  commit: 18104
+  commit: 18106
 ---
 path: /home/runner/.x-repo/github.com/jqnatividad/qsv
-collectedAt: 2026-09-07T06:03:47Z
+collectedAt: 2026-09-07T18:30:38Z
 loc:
   Rust:
-    code: 237658
-    comments: 27604
-    blanks: 23934
+    code: 238126
+    comments: 27679
+    blanks: 23950
     files: 215
   JavaScript:
     code: 13364
@@ -148,7 +148,7 @@ loc:
     blanks: 3
     files: 1
   Toml:
-    code: 1724
+    code: 1744
     comments: 448
     blanks: 69
     files: 8
@@ -179,7 +179,7 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 29392
+    comments: 29393
     blanks: 10586
     files: 155
   Text:
@@ -188,15 +188,15 @@ loc:
     blanks: 22
     files: 3
 total:
-  code: 345223
-  comments: 93430
-  blanks: 37928
+  code: 345711
+  comments: 93588
+  blanks: 37957
   files: 494
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:03:50+00:00
+  collectedAt: 2026-09-07T18:30:42+00:00
   platform:
     darwin/arm64:
       name:  qsv-22.0.1-aarch64-apple-darwin.zip
