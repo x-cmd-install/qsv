@@ -2,12 +2,12 @@ about:
   description: "Blazing-fast Data-Wrangling toolkit"
   license: NOASSERTION
   homepage: https://qsv.dathere.com
-  head: d179bb0
+  head: a6c867e
   archived: false
   latestVersion: "22.0.1"
   latestRelease: "22.0.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:16:42Z
+  collectedAt: 2026-09-09T20:40:02Z
 timeline:
   created: 2020-12-11
   lastCommit: 2026-09-09
@@ -20,10 +20,10 @@ popularity:
   fork: 109
   release: 233
   contributor: 80
-  pullRequest: 3507
-  issue: 861
+  pullRequest: 3509
+  issue: 863
 language:
-  Rust: 12263619
+  Rust: 12296085
   Shell: 998222
   TypeScript: 929238
   HTML: 493253
@@ -35,7 +35,7 @@ language:
   Nushell: 61701
   Luau: 3423
   Go Template: 2135
-totalBytes: 15894668
+totalBytes: 15927134
 recent:
   last30d:
     since: 2026-08-10
@@ -87,19 +87,19 @@ recent:
     commit: 0
 total:
   release: 233
-  mergedPR: 3321
-  openPR: 5
-  closedIssue: 832
+  mergedPR: 3325
+  openPR: 2
+  closedIssue: 834
   openIssue: 29
-  commit: 18115
+  commit: 18124
 ---
 path: /home/runner/.x-repo/github.com/jqnatividad/qsv
-collectedAt: 2026-09-09T06:17:27Z
+collectedAt: 2026-09-09T20:41:02Z
 loc:
   Rust:
-    code: 239928
-    comments: 28152
-    blanks: 24040
+    code: 240377
+    comments: 28285
+    blanks: 24067
     files: 215
   JavaScript:
     code: 13364
@@ -117,7 +117,7 @@ loc:
     blanks: 37
     files: 1
   Html:
-    code: 4742
+    code: 4701
     comments: 263
     blanks: 172
     files: 37
@@ -131,16 +131,16 @@ loc:
     comments: 992
     blanks: 207
     files: 14
+  Python:
+    code: 4087
+    comments: 602
+    blanks: 424
+    files: 13
   Elvish:
     code: 3874
     comments: 0
     blanks: 2
     files: 1
-  Python:
-    code: 3775
-    comments: 583
-    blanks: 390
-    files: 12
   Json:
     code: 3402
     comments: 0
@@ -183,7 +183,7 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 29399
+    comments: 29405
     blanks: 10586
     files: 155
   Text:
@@ -192,10 +192,10 @@ loc:
     blanks: 22
     files: 3
 total:
-  code: 347513
-  comments: 94357
-  blanks: 38089
-  files: 494
+  code: 348291
+  comments: 94557
+  blanks: 38157
+  files: 495
 ---
 
 ---
