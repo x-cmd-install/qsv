@@ -12,7 +12,7 @@ Blazing-fast Data-Wrangling toolkit
 x install qsv
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **305,475** 行代码（覆盖前 5 种语言、共 **268** 个文件）。
 
@@ -42,7 +42,7 @@ x install qsv
 
 ## 累计统计
 
-- **发布数**: 233 · **已合并 PR**: 3333 · **开放 PR**: 1 · **已关闭 issue**: 840 · **开放 issue**: 28 · **提交数**: 18140
+- **发布数**: 233 · **已合并 PR**: 3333 · **开放 PR**: 2 · **已关闭 issue**: 840 · **开放 issue**: 28 · **提交数**: 18140
 
 ## 最近活动
 
@@ -96,4 +96,4 @@ qsv 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T21:04:45Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:45:19Z._

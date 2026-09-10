@@ -42,7 +42,7 @@ Total: **305,475** lines of code across **268** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 233 · **Merged PRs**: 3333 · **Open PRs**: 1 · **Closed issues**: 840 · **Open issues**: 28 · **Commits**: 18140
+- **Releases**: 233 · **Merged PRs**: 3333 · **Open PRs**: 2 · **Closed issues**: 840 · **Open issues**: 28 · **Commits**: 18140
 
 ## Recent activity
 
@@ -96,4 +96,4 @@ Install metadata for qsv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:04:42Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:45:19Z._
