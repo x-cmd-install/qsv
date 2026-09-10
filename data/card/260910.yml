@@ -7,7 +7,7 @@ about:
   latestVersion: "22.0.1"
   latestRelease: "22.0.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:01:44Z
+  collectedAt: 2026-09-10T22:42:59Z
 timeline:
   created: 2020-12-11
   lastCommit: 2026-09-10
@@ -20,7 +20,7 @@ popularity:
   fork: 109
   release: 233
   contributor: 80
-  pullRequest: 3516
+  pullRequest: 3517
   issue: 868
 language:
   Rust: 12408171
@@ -89,13 +89,13 @@ recent:
 total:
   release: 233
   mergedPR: 3333
-  openPR: 1
+  openPR: 2
   closedIssue: 840
   openIssue: 28
   commit: 18140
 ---
 path: /home/runner/.x-repo/github.com/jqnatividad/qsv
-collectedAt: 2026-09-10T21:03:48Z
+collectedAt: 2026-09-10T22:43:53Z
 loc:
   Rust:
     code: 242064

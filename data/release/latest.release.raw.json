@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 23696368,
       "digest": "sha256:f89121f33eb055a0797f3be92c218a5f2c8d3607608e9731f41a2f2e17c8aacf",
-      "download_count": 1525,
+      "download_count": 1537,
       "created_at": "2026-08-08T06:04:07Z",
       "updated_at": "2026-08-08T06:04:14Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/22.0.1/qsv-22.0.1-geocode-index.rkyv.cities15000"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 9496541,
       "digest": "sha256:bd6c01bb974c289503a960a7312c7705b203ed20797f39e537ab69d27375b54e",
-      "download_count": 1244,
+      "download_count": 1264,
       "created_at": "2026-08-08T06:04:03Z",
       "updated_at": "2026-08-08T06:04:07Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/22.0.1/qsv-22.0.1-geocode-index.rkyv.cities15000.sz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 334706944,
       "digest": "sha256:f3daae5153a09a5a68feb32d908657729db9cdf025d9583e1139a31d0e24db96",
-      "download_count": 3432,
+      "download_count": 3435,
       "created_at": "2026-08-10T02:30:26Z",
       "updated_at": "2026-08-10T02:30:40Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/22.0.1/qsv-22.0.1-x86_64-unknown-linux-gnu.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 108833438,
       "digest": "sha256:e74398627f24a3ccce09c7917cb4f75c95b96de41a79f4b600c646870cf59d9a",
-      "download_count": 1751,
+      "download_count": 1753,
       "created_at": "2026-08-09T13:23:16Z",
       "updated_at": "2026-08-09T13:23:19Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/22.0.1/qsv-22.0.1-x86_64-unknown-linux-musl.zip"
