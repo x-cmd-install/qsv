@@ -1,52 +1,52 @@
 # qsv
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Blazing-fast Data-Wrangling toolkit
 
-![qsv](https://repo.x-cmd.io/qsv.svg)
+![qsv](https://repo.x-cmd.io/qsv.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install qsv
 ```
 
-## Code insight
+## 代码规模
 
-Total: **305,475** lines of code across **268** files in the top 5 languages.
+合计: **305,475** 行代码（覆盖前 5 种语言、共 **268** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Rust | 242,064 | 28,572 | 24,211 | 217 |
 | JavaScript | 13,364 | 42 | 11 | 10 |
 | Bash | 12,472 | 38 | 10 | 3 |
 | Zsh | 6,458 | 1 | 37 | 1 |
 | Html | 4,751 | 263 | 172 | 37 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/jqnatividad/qsv>
-- **Homepage**: <https://qsv.dathere.com>
-- **License**: NOASSERTION
+- **上游仓库**: <https://github.com/jqnatividad/qsv>
+- **官网**: <https://qsv.dathere.com>
+- **许可证**: NOASSERTION
 
-## Release
+## 发布
 
-- **Latest**: `22.0.1` (2026-08-08)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 16
+- **最新版本**: `22.0.1` (2026-08-08)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 16 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 3,779 · **Forks**: 109 · **Open issues**: 868 · **Contributors**: 80
+- **Star**: 3,779 · **Fork**: 109 · **开放 issue**: 868 · **贡献者**: 80
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 233 · **Merged PRs**: 3333 · **Open PRs**: 1 · **Closed issues**: 840 · **Open issues**: 28 · **Commits**: 18140
+- **发布数**: 233 · **已合并 PR**: 3333 · **开放 PR**: 1 · **已关闭 issue**: 840 · **开放 issue**: 28 · **提交数**: 18140
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
 | last60d | 2026-07-12 | 1 | 0 | 0 | 0 | 0 | 0 |
@@ -55,10 +55,10 @@ Total: **305,475** lines of code across **268** files in the top 5 languages.
 | 360d | 2025-09-15 | 22 | 0 | 0 | 0 | 0 | 0 |
 | last720d | 2024-09-20 | 43 | 0 | 0 | 0 | 0 | 0 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [qsv-22.0.1-aarch64-apple-darwin.zip](https://github.com/jqnatividad/qsv/releases/download/22.0.1/qsv-22.0.1-aarch64-apple-darwin.zip) | 246.0 MiB | `native/darwin/arm64` |
 | [qsv-22.0.1-aarch64-pc-windows-msvc.zip](https://github.com/jqnatividad/qsv/releases/download/22.0.1/qsv-22.0.1-aarch64-pc-windows-msvc.zip) | 47.3 MiB | `native/win/arm64` |
 | [qsv-22.0.1-aarch64-unknown-linux-gnu.zip](https://github.com/jqnatividad/qsv/releases/download/22.0.1/qsv-22.0.1-aarch64-unknown-linux-gnu.zip) | 37.3 MiB | `native/linux/arm64/glibc` |
@@ -76,24 +76,24 @@ Total: **305,475** lines of code across **268** files in the top 5 languages.
 | [qsv-data-wrangling-22.0.1.plugin](https://github.com/jqnatividad/qsv/releases/download/22.0.1/qsv-data-wrangling-22.0.1.plugin) | 95.4 KiB | `other` |
 | [qsv-mcp-server-22.0.1.mcpb](https://github.com/jqnatividad/qsv/releases/download/22.0.1/qsv-mcp-server-22.0.1.mcpb) | 10.6 MiB | `other` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **18** distros on [repology.org](https://repology.org/project/qsv). **7** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/qsv) 上共有 **18** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Arch | `22.0.1` | ✅ latest |
 | Homebrew | `22.0.1` | ✅ latest |
 | Nix unstable | `21.1.0` | ⚠️ outdated |
 | Void | `11.0.2` | ⚠️ outdated |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for qsv lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `qsv` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+qsv 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `qsv` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/qsv.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/qsv.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:04:42Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:04:45Z._
