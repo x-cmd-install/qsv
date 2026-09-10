@@ -1,0 +1,202 @@
+about:
+  description: "Blazing-fast Data-Wrangling toolkit"
+  license: NOASSERTION
+  homepage: https://qsv.dathere.com
+  head: 19d6491
+  archived: false
+  latestVersion: "22.0.1"
+  latestRelease: "22.0.1"
+  latestPrerelease: ""
+  collectedAt: 2026-09-10T21:01:44Z
+timeline:
+  created: 2020-12-11
+  lastCommit: 2026-09-10
+  lastVersion: 2026-08-08
+  lastRelease: 2026-08-08
+  lastPrerelease: 
+popularity:
+  star: 3779
+  watcher: 16
+  fork: 109
+  release: 233
+  contributor: 80
+  pullRequest: 3516
+  issue: 868
+language:
+  Rust: 12408171
+  Shell: 998222
+  TypeScript: 929238
+  HTML: 493253
+  JavaScript: 392613
+  PowerShell: 382076
+  Elvish: 127875
+  Jupyter Notebook: 123259
+  Python: 118815
+  Nushell: 61701
+  Luau: 3423
+  Go Template: 2135
+  Portugol: 820
+totalBytes: 16041601
+recent:
+  last30d:
+    since: 2026-08-11
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-12
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-12
+    release: 2
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-14
+    release: 8
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-15
+    release: 22
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-09-20
+    release: 43
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 233
+  mergedPR: 3333
+  openPR: 1
+  closedIssue: 840
+  openIssue: 28
+  commit: 18140
+---
+path: /home/runner/.x-repo/github.com/jqnatividad/qsv
+collectedAt: 2026-09-10T21:03:48Z
+loc:
+  Rust:
+    code: 242064
+    comments: 28572
+    blanks: 24211
+    files: 217
+  JavaScript:
+    code: 13364
+    comments: 42
+    blanks: 11
+    files: 10
+  Bash:
+    code: 12472
+    comments: 38
+    blanks: 10
+    files: 3
+  Zsh:
+    code: 6458
+    comments: 1
+    blanks: 37
+    files: 1
+  Html:
+    code: 4751
+    comments: 263
+    blanks: 172
+    files: 37
+  PowerShell:
+    code: 4386
+    comments: 51
+    blanks: 18
+    files: 2
+  Yaml:
+    code: 4310
+    comments: 992
+    blanks: 207
+    files: 14
+  Python:
+    code: 4119
+    comments: 606
+    blanks: 426
+    files: 13
+  Elvish:
+    code: 3874
+    comments: 0
+    blanks: 2
+    files: 1
+  Json:
+    code: 3402
+    comments: 0
+    blanks: 2
+    files: 14
+  Fish:
+    code: 2307
+    comments: 3
+    blanks: 3
+    files: 1
+  Toml:
+    code: 1797
+    comments: 455
+    blanks: 69
+    files: 8
+  Sh:
+    code: 1492
+    comments: 724
+    blanks: 225
+    files: 7
+  Lua:
+    code: 590
+    comments: 136
+    blanks: 40
+    files: 3
+  Pan:
+    code: 47
+    comments: 0
+    blanks: 17
+    files: 2
+  Jupyter:
+    code: 36
+    comments: 175
+    blanks: 48
+    files: 4
+  Css:
+    code: 6
+    comments: 11
+    blanks: 11
+    files: 2
+  Markdown:
+    code: 0
+    comments: 29477
+    blanks: 10618
+    files: 156
+  Text:
+    code: 0
+    comments: 75
+    blanks: 22
+    files: 3
+total:
+  code: 350063
+  comments: 95178
+  blanks: 38369
+  files: 498
+---
+
+---
