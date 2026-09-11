@@ -1,4 +1,16 @@
-- repo: parabola
+- repo: nix_stable_25_05
+  srcname: qsv
+  visiblename: qsv
+  version: 4.0.0
+  origversion: null
+  status: outdated
+  summary: CSVs sliced, diced & analyzed
+  maintainers:
+    - detroyejr@outlook.com
+  licenses:
+    - MIT
+    - Unlicense
+- repo: manjaro_testing
   subrepo: extra
   srcname: qsv
   binname: qsv
@@ -10,15 +22,31 @@
   licenses:
     - MIT
     - Unlicense
-- repo: scoop
-  subrepo: main
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: qsv
   binname: qsv
   visiblename: qsv
   version: 22.0.1
-  origversion: null
+  origversion: 22.0.1-1
   status: newest
+  summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
   licenses:
-    - Unlicense|MIT
+    - MIT
+    - Unlicense
+- repo: nix_stable_24_11
+  srcname: qsv
+  visiblename: qsv
+  version: 0.138.0
+  origversion: null
+  status: outdated
+  summary: CSVs sliced, diced & analyzed
+  maintainers:
+    - detroyejr@outlook.com
+    - uncenter@uncenter.dev
+  licenses:
+    - MIT
+    - Unlicense
 - repo: arch
   subrepo: extra
   srcname: qsv
@@ -72,55 +100,6 @@
   licenses:
     - MIT
     - Unlicense
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: qsv
-  binname: qsv
-  visiblename: qsv
-  version: 22.0.1
-  origversion: 22.0.1-1
-  status: newest
-  summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
-  licenses:
-    - MIT
-    - Unlicense
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: qsv
-  binname: qsv
-  visiblename: qsv
-  version: 22.0.1
-  origversion: 22.0.1-1
-  status: newest
-  summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
-  licenses:
-    - MIT
-    - Unlicense
-- repo: nix_stable_24_11
-  srcname: qsv
-  visiblename: qsv
-  version: 0.138.0
-  origversion: null
-  status: outdated
-  summary: CSVs sliced, diced & analyzed
-  maintainers:
-    - detroyejr@outlook.com
-    - uncenter@uncenter.dev
-  licenses:
-    - MIT
-    - Unlicense
-- repo: nix_stable_25_05
-  srcname: qsv
-  visiblename: qsv
-  version: 4.0.0
-  origversion: null
-  status: outdated
-  summary: CSVs sliced, diced & analyzed
-  maintainers:
-    - detroyejr@outlook.com
-  licenses:
-    - MIT
-    - Unlicense
 - repo: nix_stable_25_11
   srcname: qsv
   visiblename: qsv
@@ -176,9 +155,9 @@
 - repo: nix_unstable
   srcname: qsv
   visiblename: qsv
-  version: 21.1.0
+  version: 22.0.1
   origversion: null
-  status: outdated
+  status: newest
   summary: CSVs sliced, diced & analyzed
   maintainers:
     - detroyejr@outlook.com
@@ -189,9 +168,9 @@
 - repo: nix_unstable
   srcname: qsvlite
   visiblename: qsv
-  version: 21.1.0
+  version: 22.0.1
   origversion: null
-  status: outdated
+  status: newest
   summary: CSVs sliced, diced & analyzed
   maintainers:
     - detroyejr@outlook.com
@@ -199,6 +178,27 @@
   licenses:
     - MIT
     - Unlicense
+- repo: parabola
+  subrepo: extra
+  srcname: qsv
+  binname: qsv
+  visiblename: qsv
+  version: 22.0.1
+  origversion: 22.0.1-1
+  status: newest
+  summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
+  licenses:
+    - MIT
+    - Unlicense
+- repo: scoop
+  subrepo: main
+  binname: qsv
+  visiblename: qsv
+  version: 22.0.1
+  origversion: null
+  status: newest
+  licenses:
+    - Unlicense|MIT
 - repo: void_x86_64
   subrepo: x86_64
   srcname: qsv
