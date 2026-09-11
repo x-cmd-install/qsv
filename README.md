@@ -14,15 +14,15 @@ x install qsv
 
 ## Code insight
 
-Total: **305,739** lines of code across **269** files in the top 5 languages.
+Total: **306,405** lines of code across **270** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 242,308 | 28,617 | 24,256 | 218 |
-| JavaScript | 13,364 | 42 | 11 | 10 |
+| Rust | 242,853 | 28,689 | 24,282 | 218 |
+| JavaScript | 13,366 | 42 | 11 | 11 |
 | Bash | 12,472 | 38 | 10 | 3 |
 | Zsh | 6,458 | 1 | 37 | 1 |
-| Html | 4,751 | 263 | 172 | 37 |
+| Html | 4,805 | 263 | 172 | 37 |
 
 ## Source
 
@@ -38,11 +38,11 @@ Total: **305,739** lines of code across **269** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,780 · **Forks**: 109 · **Open issues**: 868 · **Contributors**: 80
+- **Stars**: 3,781 · **Forks**: 109 · **Open issues**: 868 · **Contributors**: 80
 
 ## Totals (cumulative)
 
-- **Releases**: 233 · **Merged PRs**: 3335 · **Open PRs**: 2 · **Closed issues**: 842 · **Open issues**: 26 · **Commits**: 18144
+- **Releases**: 233 · **Merged PRs**: 3337 · **Open PRs**: 1 · **Closed issues**: 842 · **Open issues**: 26 · **Commits**: 18146
 
 ## Recent activity
 
@@ -96,4 +96,4 @@ Install metadata for qsv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:23:45Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:27:05Z._
