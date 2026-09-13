@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 257897611,
       "digest": "sha256:735f366fb6272a772653c7106e42fd8b069a86d96eb0f9dbaf38945de09793ea",
-      "download_count": 731,
+      "download_count": 777,
       "created_at": "2026-08-09T03:52:15Z",
       "updated_at": "2026-08-09T03:54:07Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/22.0.1/qsv-22.0.1-aarch64-apple-darwin.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 49553601,
       "digest": "sha256:8e8588654262e6874e15f0effb10e369396af06d1177a33502df9cd27b7dca0c",
-      "download_count": 36,
+      "download_count": 40,
       "created_at": "2026-08-30T14:02:19Z",
       "updated_at": "2026-08-30T14:02:21Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/22.0.1/qsv-22.0.1-aarch64-pc-windows-msvc.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 39100598,
       "digest": "sha256:b045bf3800fefdb9f7222a8db054cce2859a179ed5c14764a41aa362d6c8838b",
-      "download_count": 487,
+      "download_count": 496,
       "created_at": "2026-08-09T12:52:44Z",
       "updated_at": "2026-08-09T12:52:45Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/22.0.1/qsv-22.0.1-aarch64-unknown-linux-gnu.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 86674148,
       "digest": "sha256:0c6f264c269953c65c31c6bf431bbb152634bcc5cf633a7f50b6add3d17e47aa",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-17T17:30:42Z",
       "updated_at": "2026-08-17T17:35:09Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/22.0.1/qsv-22.0.1-geocode-index.rkyv.cities1000"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 319028376,
       "digest": "sha256:9d95f7ae939b96124215ba9e34e18f067c5743f5961ce4caad32c164153290d7",
-      "download_count": 862,
+      "download_count": 920,
       "created_at": "2026-08-09T14:45:20Z",
       "updated_at": "2026-08-09T14:45:28Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/22.0.1/qsv-22.0.1-x86_64-pc-windows-msvc.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 334706944,
       "digest": "sha256:f3daae5153a09a5a68feb32d908657729db9cdf025d9583e1139a31d0e24db96",
-      "download_count": 3552,
+      "download_count": 3646,
       "created_at": "2026-08-10T02:30:26Z",
       "updated_at": "2026-08-10T02:30:40Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/22.0.1/qsv-22.0.1-x86_64-unknown-linux-gnu.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 108833438,
       "digest": "sha256:e74398627f24a3ccce09c7917cb4f75c95b96de41a79f4b600c646870cf59d9a",
-      "download_count": 1806,
+      "download_count": 1822,
       "created_at": "2026-08-09T13:23:16Z",
       "updated_at": "2026-08-09T13:23:19Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/22.0.1/qsv-22.0.1-x86_64-unknown-linux-musl.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 11113147,
       "digest": "sha256:956b82809ae49ea1274d494dabc832ac270f2cd5ceb345bbc90ac3e62d5529b8",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-08-09T23:43:40Z",
       "updated_at": "2026-08-09T23:43:44Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/22.0.1/qsv-mcp-server-22.0.1.mcpb"
