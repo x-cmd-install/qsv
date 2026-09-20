@@ -4,7 +4,7 @@
 
 Blazing-fast Data-Wrangling toolkit
 
-![qsv](https://repo.x-cmd.io/qsv.svg)
+[![x-cmd/install — qsv Code Quality Monitoring Repo Card](https://repo.x-cmd.io/qsv.svg)](https://x-cmd.com/install/qsv)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install qsv
 
 ## Code insight
 
-Total: **344,356** lines of code across **235** files in the top 5 languages.
+Total: **345,883** lines of code across **235** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 245,961 | 29,695 | 24,679 | 218 |
+| Rust | 247,487 | 29,917 | 24,863 | 218 |
 | JavaScript | 28,019 | 42 | 11 | 11 |
 | Bash | 20,911 | 38 | 10 | 3 |
 | Zsh | 9,647 | 1 | 40 | 1 |
@@ -33,27 +33,27 @@ Total: **344,356** lines of code across **235** files in the top 5 languages.
 ## Release
 
 - **Latest**: `23.0.1` (2026-09-13)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 3,788 · **Forks**: 109 · **Open issues**: 883 · **Contributors**: 80
+- **Stars**: 3,789 · **Forks**: 109 · **Open issues**: 886 · **Contributors**: 80
 
 ## Totals (cumulative)
 
-- **Releases**: 234 · **Merged PRs**: 3356 · **Open PRs**: 2 · **Closed issues**: 851 · **Open issues**: 32 · **Commits**: 18227
+- **Releases**: 234 · **Merged PRs**: 3361 · **Open PRs**: 1 · **Closed issues**: 855 · **Open issues**: 31 · **Commits**: 18240
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 23 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 43 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 23 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 43 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for qsv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:24:07Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:28:24Z._
