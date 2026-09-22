@@ -14,7 +14,7 @@ x install qsv
 
 ## Code insight
 
-Total: **354,957** lines of code across **299** files in the top 5 languages.
+Total: **354,958** lines of code across **299** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **354,957** lines of code across **299** files in the top 5 languages.
 ## Release
 
 - **Latest**: `23.0.1` (2026-09-13)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-21
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 3,790 · **Forks**: 109 · **Open issues**: 886 · **Contributors**: 80
+- **Stars**: 3,792 · **Forks**: 109 · **Open issues**: 887 · **Contributors**: 80
 
 ## Totals (cumulative)
 
-- **Releases**: 234 · **Merged PRs**: 3363 · **Open PRs**: 5 · **Closed issues**: 855 · **Open issues**: 31 · **Commits**: 18243
+- **Releases**: 234 · **Merged PRs**: 3367 · **Open PRs**: 2 · **Closed issues**: 855 · **Open issues**: 32 · **Commits**: 18248
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-23 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-25 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-26 | 23 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-01 | 43 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-23 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-24 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-26 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-27 | 23 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-02 | 43 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for qsv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:36:54Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:39:44Z._
