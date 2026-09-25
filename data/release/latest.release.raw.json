@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 250655873,
       "digest": "sha256:0cf097926616b3b5c91ce6cf7c724e41cd694db2f5289fd3c21787aa2ebe0942",
-      "download_count": 191,
+      "download_count": 200,
       "created_at": "2026-09-13T03:28:03Z",
       "updated_at": "2026-09-13T03:28:24Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/23.0.1/qsv-23.0.1-aarch64-apple-darwin.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 48850122,
       "digest": "sha256:a8fb5b9d3e8366be6bb118b7504b451f14067153aaafa17950bbdfb650781176",
-      "download_count": 33,
+      "download_count": 41,
       "created_at": "2026-09-13T02:18:55Z",
       "updated_at": "2026-09-13T02:18:58Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/23.0.1/qsv-23.0.1-aarch64-pc-windows-msvc.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 20976173,
       "digest": "sha256:a83e03591db2b42b57e11f10fc3c1e4425552a341d90e86d18c33dc8bec9af58",
-      "download_count": 115,
+      "download_count": 127,
       "created_at": "2026-09-13T01:53:52Z",
       "updated_at": "2026-09-13T01:53:53Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/23.0.1/qsv-23.0.1-aarch64-unknown-linux-gnu.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 23730192,
       "digest": "sha256:021a1a51bf8a53279bb3adf6f4013321e2c831d96641235171a68fe2d7ba3a4c",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-13T01:20:12Z",
       "updated_at": "2026-09-13T01:20:20Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/23.0.1/qsv-23.0.1-geocode-index.rkyv"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 86917140,
       "digest": "sha256:2f4fba5cc9bea2e55541007827f8dd124585d0a7a91018e9aae82c4d87bc3952",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-09-13T01:20:32Z",
       "updated_at": "2026-09-13T01:21:00Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/23.0.1/qsv-23.0.1-geocode-index.rkyv.cities1000"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 33673283,
       "digest": "sha256:5307975fe5a5bf13613ef20889ba4fd7275ea7ef0ff18ddb2060102bc50ca7ea",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-13T01:20:23Z",
       "updated_at": "2026-09-13T01:20:32Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/23.0.1/qsv-23.0.1-geocode-index.rkyv.cities1000.sz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 23730192,
       "digest": "sha256:021a1a51bf8a53279bb3adf6f4013321e2c831d96641235171a68fe2d7ba3a4c",
-      "download_count": 338,
+      "download_count": 381,
       "created_at": "2026-09-13T01:20:04Z",
       "updated_at": "2026-09-13T01:20:12Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/23.0.1/qsv-23.0.1-geocode-index.rkyv.cities15000"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 9539525,
       "digest": "sha256:c43d403fd95a6ace7c09526dbc80eb7f04a9ec587dc2320597bd31fdaf320941",
-      "download_count": 404,
+      "download_count": 451,
       "created_at": "2026-09-13T01:20:20Z",
       "updated_at": "2026-09-13T01:20:23Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/23.0.1/qsv-23.0.1-geocode-index.rkyv.cities15000.sz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 24793240,
       "digest": "sha256:1057e7cc541e5862d8d33c07680dd9643810d4745c8f7ce29dc2e5f9e38b9d7b",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-13T02:31:54Z",
       "updated_at": "2026-09-13T02:32:06Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/23.0.1/qsv-23.0.1-powerpc64le-unknown-linux-gnu.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 26619725,
       "digest": "sha256:01c58500bb0b8baad288fbc06c84d9100d0c33818b34cecbccfab5fa137f0296",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-13T02:10:12Z",
       "updated_at": "2026-09-13T02:10:13Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/23.0.1/qsv-23.0.1-s390x-unknown-linux-gnu.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 117011063,
       "digest": "sha256:e9b03633ba4d0fcfc8df496db5252f9be44992de6a4534b51691d7f65be1d23d",
-      "download_count": 22,
+      "download_count": 25,
       "created_at": "2026-09-13T02:06:25Z",
       "updated_at": "2026-09-13T02:06:28Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/23.0.1/qsv-23.0.1-x86_64-pc-windows-gnu.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 313583346,
       "digest": "sha256:b6340aa9c651c231498c607b161ffcc29286b6ad9128601eb48817559fa43de1",
-      "download_count": 383,
+      "download_count": 407,
       "created_at": "2026-09-13T05:29:40Z",
       "updated_at": "2026-09-13T05:29:49Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/23.0.1/qsv-23.0.1-x86_64-pc-windows-msvc.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 332192931,
       "digest": "sha256:df3a52004d3f3d7aaacec9326749967eaf2aa60cb8552253123b8487a0c6796c",
-      "download_count": 820,
+      "download_count": 936,
       "created_at": "2026-09-13T04:38:23Z",
       "updated_at": "2026-09-13T04:38:31Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/23.0.1/qsv-23.0.1-x86_64-unknown-linux-gnu.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 54053159,
       "digest": "sha256:e4175df7ecb74b91b5b481ffb96f5adbd7e9ea129c1954bfb280b21cba325433",
-      "download_count": 322,
+      "download_count": 353,
       "created_at": "2026-09-13T01:52:09Z",
       "updated_at": "2026-09-13T01:52:11Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/23.0.1/qsv-23.0.1-x86_64-unknown-linux-musl.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 97660,
       "digest": "sha256:0b59c703e8af04288d8239e1cb2dbc9810952f3643ad319b58750594695d724b",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-13T12:01:06Z",
       "updated_at": "2026-09-13T12:01:07Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/23.0.1/qsv-data-wrangling-23.0.1.plugin"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 11129079,
       "digest": "sha256:bc7b227044acf33f05f3e4dfe8aa7d0ef67f973cb09e373b331c534b17a23e0d",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-13T12:01:07Z",
       "updated_at": "2026-09-13T12:01:10Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/23.0.1/qsv-mcp-server-23.0.1.mcpb"
