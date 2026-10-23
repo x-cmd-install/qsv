@@ -14,11 +14,11 @@ x install qsv
 
 ## Code insight
 
-Total: **397,935** lines of code across **324** files in the top 5 languages.
+Total: **400,479** lines of code across **324** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 281,591 | 32,465 | 27,302 | 243 |
+| Rust | 284,172 | 32,741 | 27,438 | 243 |
 | JavaScript | 31,894 | 42 | 11 | 11 |
 | Bash | 23,118 | 38 | 10 | 3 |
 | Json | 11,386 | 0 | 0 | 66 |
@@ -33,7 +33,7 @@ Total: **397,935** lines of code across **324** files in the top 5 languages.
 ## Release
 
 - **Latest**: `26.0.0` (2026-10-19)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 - **Assets in release**: 18
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **397,935** lines of code across **324** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 237 · **Merged PRs**: 3556 · **Open PRs**: 1 · **Closed issues**: 909 · **Open issues**: 23 · **Commits**: 18537
+- **Releases**: 237 · **Merged PRs**: 3577 · **Open PRs**: 0 · **Closed issues**: 910 · **Open issues**: 22 · **Commits**: 18564
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 23 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-01 | 44 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-23 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 23 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-02 | 44 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -78,6 +78,17 @@ Total: **397,935** lines of code across **324** files in the top 5 languages.
 | [qsv-data-wrangling-26.0.0.plugin](https://github.com/jqnatividad/qsv/releases/download/26.0.0/qsv-data-wrangling-26.0.0.plugin) | 95.7 KiB | `other` |
 | [qsv-mcp-server-26.0.0.mcpb](https://github.com/jqnatividad/qsv/releases/download/26.0.0/qsv-mcp-server-26.0.0.mcpb) | 10.6 MiB | `other` |
 
+## Distribution status
+
+Reported by **18** distros on [repology.org](https://repology.org/project/qsv). **6** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `26.0.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `25.0.0` | ⚠️ outdated |
+| Void | `11.0.2` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for qsv lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `qsv` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +98,4 @@ Install metadata for qsv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:01:11Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:02:00Z._
