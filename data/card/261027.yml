@@ -2,12 +2,12 @@ about:
   description: "Blazing-fast, Neuro-symbolic Data-Wrangling toolkit"
   license: NOASSERTION
   homepage: https://qsv.dathere.com
-  head: bb48ec1
+  head: 8742357
   archived: false
   latestVersion: "27.0.0"
   latestRelease: "26.0.0"
   latestPrerelease: "27.0.0"
-  collectedAt: 2026-10-27T06:18:21Z
+  collectedAt: 2026-10-27T10:13:05Z
 timeline:
   created: 2020-12-11
   lastCommit: 2026-10-27
@@ -41,61 +41,61 @@ recent:
   last30d:
     since: 2026-09-27
     release: 4
-    mergedPR: 0
+    mergedPR: 221
     openPR: 0
-    closedIssue: 0
-    openIssue: 0
-    commit: 0
+    closedIssue: 38
+    openIssue: 15
+    commit: 502
   last60d:
     since: 2026-08-28
     release: 5
-    mergedPR: 0
+    mergedPR: 320
     openPR: 0
-    closedIssue: 0
-    openIssue: 0
-    commit: 0
+    closedIssue: 91
+    openIssue: 18
+    commit: 856
   last90d:
     since: 2026-07-29
     release: 6
-    mergedPR: 0
+    mergedPR: 456
     openPR: 0
-    closedIssue: 0
-    openIssue: 0
-    commit: 0
+    closedIssue: 141
+    openIssue: 22
+    commit: 1203
   last180d:
     since: 2026-04-30
     release: 10
-    mergedPR: 0
+    mergedPR: 901
     openPR: 0
-    closedIssue: 0
-    openIssue: 0
-    commit: 0
+    closedIssue: 185
+    openIssue: 25
+    commit: 2467
   last360d:
     since: 2025-11-01
     release: 24
-    mergedPR: 0
+    mergedPR: 1513
     openPR: 0
-    closedIssue: 0
-    openIssue: 0
-    commit: 0
+    closedIssue: 250
+    openIssue: 26
+    commit: 6179
   last720d:
     since: 2024-11-06
     release: 45
-    mergedPR: 0
+    mergedPR: 2064
     openPR: 0
-    closedIssue: 0
-    openIssue: 0
-    commit: 0
+    closedIssue: 409
+    openIssue: 30
+    commit: 7843
 total:
   release: 238
-  mergedPR: 3606
-  openPR: 1
+  mergedPR: 3607
+  openPR: 0
   closedIssue: 912
   openIssue: 36
-  commit: 18611
+  commit: 18612
 ---
-path: /home/runner/.x-repo/github.com/jqnatividad/qsv
-collectedAt: 2026-10-27T06:19:19Z
+path: /home/runner/.x-repo/github.com/dathere/qsv
+collectedAt: 2026-10-27T10:14:08Z
 loc:
   Rust:
     code: 287016
