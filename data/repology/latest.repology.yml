@@ -1,3 +1,79 @@
+- repo: arch
+  subrepo: extra
+  srcname: qsv
+  binname: qsv
+  visiblename: qsv
+  version: 27.0.0
+  origversion: 27.0.0-1
+  status: outdated
+  summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
+  licenses:
+    - MIT
+    - Unlicense
+- repo: homebrew
+  srcname: qsv
+  visiblename: qsv
+  version: 26.0.0
+  origversion: null
+  status: outdated
+  summary: Ultra-fast CSV data-wrangling toolkit
+- repo: homebrew
+  srcname: qsv
+  visiblename: qsv
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Ultra-fast CSV data-wrangling toolkit
+- repo: macports
+  srcname: textproc/qsv
+  binname: qsv
+  visiblename: qsv
+  version: 26.0.0
+  origversion: null
+  status: outdated
+  summary: Ultra-fast CSV data-wrangling CLI toolkit
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - textproc
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: qsv
+  binname: qsv
+  visiblename: qsv
+  version: 22.0.1
+  origversion: 22.0.1-1
+  status: outdated
+  summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
+  licenses:
+    - MIT
+    - Unlicense
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: qsv
+  binname: qsv
+  visiblename: qsv
+  version: 23.0.1
+  origversion: 23.0.1-1
+  status: outdated
+  summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
+  licenses:
+    - MIT
+    - Unlicense
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: qsv
+  binname: qsv
+  visiblename: qsv
+  version: 26.0.0
+  origversion: 26.0.0-1
+  status: outdated
+  summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
+  licenses:
+    - MIT
+    - Unlicense
 - repo: nix_stable_24_11
   srcname: qsv
   visiblename: qsv
@@ -11,13 +87,6 @@
   licenses:
     - MIT
     - Unlicense
-- repo: homebrew
-  srcname: qsv
-  visiblename: qsv
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Ultra-fast CSV data-wrangling toolkit
 - repo: nix_stable_25_05
   srcname: qsv
   visiblename: qsv
@@ -30,39 +99,6 @@
   licenses:
     - MIT
     - Unlicense
-- repo: arch
-  subrepo: extra
-  srcname: qsv
-  binname: qsv
-  visiblename: qsv
-  version: 26.0.0
-  origversion: 26.0.0-1
-  status: newest
-  summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
-  licenses:
-    - MIT
-    - Unlicense
-- repo: homebrew
-  srcname: qsv
-  visiblename: qsv
-  version: 26.0.0
-  origversion: null
-  status: newest
-  summary: Ultra-fast CSV data-wrangling toolkit
-- repo: macports
-  srcname: textproc/qsv
-  binname: qsv
-  visiblename: qsv
-  version: 26.0.0
-  origversion: null
-  status: newest
-  summary: Ultra-fast CSV data-wrangling CLI toolkit
-  maintainers:
-    - herbygillot@github
-  licenses:
-    - MIT
-  categories:
-    - textproc
 - repo: nix_stable_25_11
   srcname: qsv
   visiblename: qsv
@@ -146,9 +182,9 @@
   srcname: qsv
   binname: qsv
   visiblename: qsv
-  version: 26.0.0
-  origversion: 26.0.0-1
-  status: newest
+  version: 27.0.0
+  origversion: 27.0.0-1
+  status: outdated
   summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
   licenses:
     - MIT
@@ -157,7 +193,7 @@
   subrepo: main
   binname: qsv
   visiblename: qsv
-  version: 26.0.0
+  version: 27.0.1
   origversion: null
   status: newest
   licenses:
@@ -174,40 +210,4 @@
   maintainers:
     - pangolin@vivaldi.net
   licenses:
-    - Unlicense
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: qsv
-  binname: qsv
-  visiblename: qsv
-  version: 22.0.1
-  origversion: 22.0.1-1
-  status: outdated
-  summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
-  licenses:
-    - MIT
-    - Unlicense
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: qsv
-  binname: qsv
-  visiblename: qsv
-  version: 23.0.1
-  origversion: 23.0.1-1
-  status: outdated
-  summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
-  licenses:
-    - MIT
-    - Unlicense
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: qsv
-  binname: qsv
-  visiblename: qsv
-  version: 26.0.0
-  origversion: 26.0.0-1
-  status: newest
-  summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
-  licenses:
-    - MIT
     - Unlicense
