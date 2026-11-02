@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 33895701,
       "digest": "sha256:9b1b6c8c12903a6e473c4cf5b106266d66497bc57117b3c118c3cbc2fdb105ce",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-28T12:55:10Z",
       "updated_at": "2026-10-28T12:55:12Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/boston311-2025.tsv.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 322947084,
       "digest": "sha256:14a3e2ededa8734fa8ecd7dd14ddcf6e9d8b7d19eb1b4088ce6f63e1c9addc2a",
-      "download_count": 79,
+      "download_count": 101,
       "created_at": "2026-10-27T14:22:26Z",
       "updated_at": "2026-10-27T14:24:32Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-aarch64-apple-darwin.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 44994830,
       "digest": "sha256:f11f4cf51986d40ba4e1342cdb8bebccbaaa993c185a19e7642b07644a4afa39",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-27T13:16:34Z",
       "updated_at": "2026-10-27T13:16:36Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-aarch64-pc-windows-gnullvm.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 51907702,
       "digest": "sha256:0553ea5e4e86d5b2074a81b86f3ef34b15de5081ab66234d1c78a61ef5c84a43",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-10-27T13:14:29Z",
       "updated_at": "2026-10-27T13:14:31Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-aarch64-pc-windows-msvc.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 21714591,
       "digest": "sha256:ce9ac067873a8524d1899230b463823a6b818d99020d2aa77b616457e93a675f",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-10-27T12:49:48Z",
       "updated_at": "2026-10-27T12:49:49Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-aarch64-unknown-linux-gnu.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 20278538,
       "digest": "sha256:f0e6fbd6d8f8369a94e6e2eb494369e2c9a1af4fe92bd02f4f6bc958f6b9a389",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-10-27T12:35:02Z",
       "updated_at": "2026-10-27T12:35:03Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-aarch64-unknown-linux-musl.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 15447680,
       "digest": "sha256:92f1cb3f22d024ab8f4c1c4e012d3a87b314c183c7f7ef078cae372cdc116aca",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-27T12:15:02Z",
       "updated_at": "2026-10-27T12:15:04Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-geocode-index.rkyv"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 43332876,
       "digest": "sha256:773666c43f96c6ca0f557796c269f2d20c260fec48daa35edf521240e7598180",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-27T12:15:05Z",
       "updated_at": "2026-10-27T12:15:07Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-geocode-index.rkyv.cities1000"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 22009345,
       "digest": "sha256:d610a40308b68325c0a87f5d07961038b53afc5ee6899f43c250a120dff9e053",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-27T12:15:04Z",
       "updated_at": "2026-10-27T12:15:05Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-geocode-index.rkyv.cities1000.sz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 15447680,
       "digest": "sha256:92f1cb3f22d024ab8f4c1c4e012d3a87b314c183c7f7ef078cae372cdc116aca",
-      "download_count": 266,
+      "download_count": 458,
       "created_at": "2026-10-27T12:15:08Z",
       "updated_at": "2026-10-27T12:15:08Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-geocode-index.rkyv.cities15000"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 7470627,
       "digest": "sha256:ee819054f9e8700fadb8077dfeea6c79d5225634b9edad42201d685791d65758",
-      "download_count": 266,
+      "download_count": 462,
       "created_at": "2026-10-27T12:15:07Z",
       "updated_at": "2026-10-27T12:15:08Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-geocode-index.rkyv.cities15000.sz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 25573194,
       "digest": "sha256:ee3e2b68c4478bf41693a15f6675d0e13fcf63100f59fe361c80b56992090058",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-27T13:07:05Z",
       "updated_at": "2026-10-27T13:07:07Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-powerpc64le-unknown-linux-gnu.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 28158703,
       "digest": "sha256:fa606e43521cc6cc63a04c5ad9fe116492a039d4b463ea49d440e5169ddc749a",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-27T13:12:40Z",
       "updated_at": "2026-10-27T13:12:41Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-s390x-unknown-linux-gnu.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 129287020,
       "digest": "sha256:3efe00909ad9bfd7fe52cf2a430d52115d327eb98dcc97c361afb09c2b78acf4",
-      "download_count": 16,
+      "download_count": 18,
       "created_at": "2026-10-27T13:12:17Z",
       "updated_at": "2026-10-27T13:12:21Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-x86_64-pc-windows-gnu.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 402543109,
       "digest": "sha256:80c463318d64c630573b1d9aa040a1b139345d26d8becdaa0e259c78a0bf8c4a",
-      "download_count": 199,
+      "download_count": 262,
       "created_at": "2026-10-27T16:02:33Z",
       "updated_at": "2026-10-27T16:02:46Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-x86_64-pc-windows-msvc.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 423494010,
       "digest": "sha256:3d236cf926045070899b4e21e8bb7dc360e8c0f2aaa9a663ab38e2b5af2b128b",
-      "download_count": 518,
+      "download_count": 666,
       "created_at": "2026-10-27T15:15:56Z",
       "updated_at": "2026-10-27T15:16:09Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-x86_64-unknown-linux-gnu.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 57754023,
       "digest": "sha256:e331e8b8fb41df3782e9e734d52793a4fb6ac2e36251289d83d9e3add66e9ec0",
-      "download_count": 160,
+      "download_count": 200,
       "created_at": "2026-10-27T12:57:12Z",
       "updated_at": "2026-10-27T12:57:15Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-x86_64-unknown-linux-musl.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 98025,
       "digest": "sha256:4b92967fdc87dcd1da2b3b557b38731c4769486910a5e4b4bed73cf16b3a0c59",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-27T17:20:14Z",
       "updated_at": "2026-10-27T17:20:15Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-data-wrangling-27.0.1.plugin"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 11140166,
       "digest": "sha256:3c97433be9b8e47e930031b6b19992e5566b238425af9e500bfdfafb237b1697",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-10-27T17:20:14Z",
       "updated_at": "2026-10-27T17:20:18Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/qsv-mcp-server-27.0.1.mcpb"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 45850427,
       "digest": "sha256:be2a1b488063e9465e7d23c4c193abe539dea661563cd408d6848344043a666b",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-28T12:55:10Z",
       "updated_at": "2026-10-28T12:55:13Z",
       "browser_download_url": "https://github.com/dathere/qsv/releases/download/27.0.1/wpa_211_requests.csv"
