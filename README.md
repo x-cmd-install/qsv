@@ -14,11 +14,11 @@ x install qsv
 
 ## Code insight
 
-Total: **411,703** lines of code across **327** files in the top 5 languages.
+Total: **411,865** lines of code across **327** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 293,624 | 33,432 | 28,039 | 246 |
+| Rust | 293,783 | 33,453 | 28,060 | 246 |
 | JavaScript | 31,930 | 42 | 11 | 11 |
 | Bash | 23,130 | 38 | 10 | 3 |
 | Json | 11,907 | 0 | 0 | 66 |
@@ -32,63 +32,61 @@ Total: **411,703** lines of code across **327** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `28.0.0` (2026-10-27)
+- **Latest**: `28.0.0` (2026-11-02)
 - **Last commit**: 2026-11-02
-- **Assets in release**: 20
+- **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 3,818 · **Forks**: 115 · **Open issues**: 950 · **Contributors**: 86
+- **Stars**: 3,818 · **Forks**: 116 · **Open issues**: 950 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 239 · **Merged PRs**: 3652 · **Open PRs**: 1 · **Closed issues**: 925 · **Open issues**: 25 · **Commits**: 18679
+- **Releases**: 239 · **Merged PRs**: 3655 · **Open PRs**: 2 · **Closed issues**: 925 · **Open issues**: 25 · **Commits**: 18686
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 5 | 234 | 1 | 35 | 3 | 489 |
-| last60d | 2026-09-03 | 6 | 347 | 1 | 93 | 7 | 927 |
-| 90d | 2026-08-04 | 7 | 473 | 1 | 147 | 11 | 1198 |
-| last180d | 2026-05-06 | 10 | 923 | 1 | 197 | 14 | 2507 |
-| 360d | 2025-11-07 | 24 | 1551 | 1 | 259 | 15 | 6228 |
-| last720d | 2024-11-12 | 45 | 2097 | 1 | 420 | 19 | 7853 |
+| 30d | 2026-10-04 | 5 | 223 | 2 | 32 | 3 | 499 |
+| last60d | 2026-09-04 | 6 | 348 | 2 | 89 | 7 | 937 |
+| 90d | 2026-08-05 | 7 | 470 | 2 | 146 | 11 | 1208 |
+| last180d | 2026-05-07 | 10 | 916 | 2 | 197 | 14 | 2517 |
+| 360d | 2025-11-08 | 24 | 1553 | 2 | 258 | 15 | 6238 |
+| last720d | 2024-11-13 | 45 | 2099 | 2 | 419 | 19 | 7856 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [boston311-2025.tsv.gz](https://github.com/dathere/qsv/releases/download/27.0.1/boston311-2025.tsv.gz) | 32.3 MiB | `other` |
-| [qsv-27.0.1-aarch64-apple-darwin.zip](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-aarch64-apple-darwin.zip) | 308.0 MiB | `native/darwin/arm64` |
-| [qsv-27.0.1-aarch64-pc-windows-gnullvm.zip](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-aarch64-pc-windows-gnullvm.zip) | 42.9 MiB | `native/win/arm64` |
-| [qsv-27.0.1-aarch64-pc-windows-msvc.zip](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-aarch64-pc-windows-msvc.zip) | 49.5 MiB | `native/win/arm64` |
-| [qsv-27.0.1-aarch64-unknown-linux-gnu.zip](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-aarch64-unknown-linux-gnu.zip) | 20.7 MiB | `native/linux/arm64/glibc` |
-| [qsv-27.0.1-aarch64-unknown-linux-musl.zip](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-aarch64-unknown-linux-musl.zip) | 19.3 MiB | `native/linux/arm64/musl` |
-| [qsv-27.0.1-geocode-index.rkyv](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-geocode-index.rkyv) | 14.7 MiB | `other` |
-| [qsv-27.0.1-geocode-index.rkyv.cities1000](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-geocode-index.rkyv.cities1000) | 41.3 MiB | `other` |
-| [qsv-27.0.1-geocode-index.rkyv.cities1000.sz](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-geocode-index.rkyv.cities1000.sz) | 21.0 MiB | `other` |
-| [qsv-27.0.1-geocode-index.rkyv.cities15000](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-geocode-index.rkyv.cities15000) | 14.7 MiB | `other` |
-| [qsv-27.0.1-geocode-index.rkyv.cities15000.sz](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-geocode-index.rkyv.cities15000.sz) | 7.1 MiB | `other` |
-| [qsv-27.0.1-powerpc64le-unknown-linux-gnu.zip](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-powerpc64le-unknown-linux-gnu.zip) | 24.4 MiB | `other` |
-| [qsv-27.0.1-s390x-unknown-linux-gnu.zip](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-s390x-unknown-linux-gnu.zip) | 26.9 MiB | `other` |
-| [qsv-27.0.1-x86_64-pc-windows-gnu.zip](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-x86_64-pc-windows-gnu.zip) | 123.3 MiB | `native/win/x64` |
-| [qsv-27.0.1-x86_64-pc-windows-msvc.zip](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-x86_64-pc-windows-msvc.zip) | 383.9 MiB | `native/win/x64` |
-| [qsv-27.0.1-x86_64-unknown-linux-gnu.zip](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-x86_64-unknown-linux-gnu.zip) | 403.9 MiB | `native/linux/x64/glibc` |
-| [qsv-27.0.1-x86_64-unknown-linux-musl.zip](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-27.0.1-x86_64-unknown-linux-musl.zip) | 55.1 MiB | `native/linux/x64/musl` |
-| [qsv-data-wrangling-27.0.1.plugin](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-data-wrangling-27.0.1.plugin) | 95.7 KiB | `other` |
-| [qsv-mcp-server-27.0.1.mcpb](https://github.com/dathere/qsv/releases/download/27.0.1/qsv-mcp-server-27.0.1.mcpb) | 10.6 MiB | `other` |
-| [wpa_211_requests.csv](https://github.com/dathere/qsv/releases/download/27.0.1/wpa_211_requests.csv) | 43.7 MiB | `other` |
+| [qsv-28.0.0-aarch64-apple-darwin.zip](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-28.0.0-aarch64-apple-darwin.zip) | 308.8 MiB | `native/darwin/arm64` |
+| [qsv-28.0.0-aarch64-pc-windows-gnullvm.zip](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-28.0.0-aarch64-pc-windows-gnullvm.zip) | 43.0 MiB | `native/win/arm64` |
+| [qsv-28.0.0-aarch64-pc-windows-msvc.zip](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-28.0.0-aarch64-pc-windows-msvc.zip) | 49.6 MiB | `native/win/arm64` |
+| [qsv-28.0.0-aarch64-unknown-linux-gnu.zip](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-28.0.0-aarch64-unknown-linux-gnu.zip) | 20.8 MiB | `native/linux/arm64/glibc` |
+| [qsv-28.0.0-aarch64-unknown-linux-musl.zip](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-28.0.0-aarch64-unknown-linux-musl.zip) | 19.4 MiB | `native/linux/arm64/musl` |
+| [qsv-28.0.0-geocode-index.rkyv](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-28.0.0-geocode-index.rkyv) | 14.7 MiB | `other` |
+| [qsv-28.0.0-geocode-index.rkyv.cities1000](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-28.0.0-geocode-index.rkyv.cities1000) | 41.3 MiB | `other` |
+| [qsv-28.0.0-geocode-index.rkyv.cities1000.sz](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-28.0.0-geocode-index.rkyv.cities1000.sz) | 21.0 MiB | `other` |
+| [qsv-28.0.0-geocode-index.rkyv.cities15000](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-28.0.0-geocode-index.rkyv.cities15000) | 14.7 MiB | `other` |
+| [qsv-28.0.0-geocode-index.rkyv.cities15000.sz](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-28.0.0-geocode-index.rkyv.cities15000.sz) | 7.1 MiB | `other` |
+| [qsv-28.0.0-powerpc64le-unknown-linux-gnu.zip](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-28.0.0-powerpc64le-unknown-linux-gnu.zip) | 24.4 MiB | `other` |
+| [qsv-28.0.0-s390x-unknown-linux-gnu.zip](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-28.0.0-s390x-unknown-linux-gnu.zip) | 26.9 MiB | `other` |
+| [qsv-28.0.0-x86_64-pc-windows-gnu.zip](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-28.0.0-x86_64-pc-windows-gnu.zip) | 124.3 MiB | `native/win/x64` |
+| [qsv-28.0.0-x86_64-pc-windows-msvc.zip](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-28.0.0-x86_64-pc-windows-msvc.zip) | 384.6 MiB | `native/win/x64` |
+| [qsv-28.0.0-x86_64-unknown-linux-gnu.zip](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-28.0.0-x86_64-unknown-linux-gnu.zip) | 404.9 MiB | `native/linux/x64/glibc` |
+| [qsv-28.0.0-x86_64-unknown-linux-musl.zip](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-28.0.0-x86_64-unknown-linux-musl.zip) | 55.2 MiB | `native/linux/x64/musl` |
+| [qsv-data-wrangling-28.0.0.plugin](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-data-wrangling-28.0.0.plugin) | 95.7 KiB | `other` |
+| [qsv-mcp-server-28.0.0.mcpb](https://github.com/dathere/qsv/releases/download/28.0.0/qsv-mcp-server-28.0.0.mcpb) | 10.9 MiB | `other` |
 
 ## Distribution status
 
-Reported by **16** distros on [repology.org](https://repology.org/project/qsv). **7** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **16** distros on [repology.org](https://repology.org/project/qsv). **6** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `27.0.1` | ✅ latest |
-| Homebrew | `27.0.1` | ✅ latest |
-| Nix unstable | `27.0.1` | ✅ latest |
+| Arch | `28.0.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `28.0.0` | ✅ latest |
 | Void | `11.0.2` | ⚠️ outdated |
 
 ## Improve this data
@@ -100,4 +98,4 @@ Install metadata for qsv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:36:11Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:23:45Z._
