@@ -38,7 +38,7 @@ Total: **411,977** lines of code across **327** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,818 · **Forks**: 118 · **Open issues**: 950 · **Contributors**: 86
+- **Stars**: 3,819 · **Forks**: 118 · **Open issues**: 950 · **Contributors**: 86
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **411,977** lines of code across **327** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 5 | 225 | 0 | 28 | 3 | 507 |
-| last60d | 2026-09-05 | 6 | 349 | 0 | 89 | 7 | 945 |
-| 90d | 2026-08-06 | 7 | 469 | 0 | 144 | 11 | 1216 |
-| last180d | 2026-05-08 | 10 | 919 | 0 | 197 | 14 | 2525 |
-| 360d | 2025-11-09 | 24 | 1553 | 0 | 257 | 15 | 6246 |
-| last720d | 2024-11-14 | 45 | 2102 | 0 | 419 | 19 | 7848 |
+| 30d | 2026-10-06 | 4 | 217 | 0 | 25 | 3 | 507 |
+| last60d | 2026-09-06 | 6 | 347 | 0 | 88 | 6 | 945 |
+| 90d | 2026-08-07 | 7 | 463 | 0 | 143 | 11 | 1216 |
+| last180d | 2026-05-09 | 10 | 915 | 0 | 197 | 14 | 2525 |
+| 360d | 2025-11-10 | 24 | 1553 | 0 | 254 | 15 | 6246 |
+| last720d | 2024-11-15 | 45 | 2101 | 0 | 419 | 19 | 7836 |
 
 ## Release assets
 
@@ -80,12 +80,12 @@ Total: **411,977** lines of code across **327** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **16** distros on [repology.org](https://repology.org/project/qsv). **6** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **17** distros on [repology.org](https://repology.org/project/qsv). **7** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `28.0.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `28.0.0` | ✅ latest |
 | Nix unstable | `28.0.0` | ✅ latest |
 | Void | `11.0.2` | ⚠️ outdated |
 
@@ -98,4 +98,4 @@ Install metadata for qsv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:50:37Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:58:47Z._
