@@ -1,10 +1,16 @@
-- repo: homebrew
-  srcname: qsv
+- repo: nix_stable_25_11
+  srcname: qsvlite
   visiblename: qsv
-  version: HEAD
+  version: 10.0.0
   origversion: null
-  status: rolling
-  summary: Ultra-fast CSV data-wrangling toolkit
+  status: outdated
+  summary: CSVs sliced, diced & analyzed
+  maintainers:
+    - detroyejr@outlook.com
+    - bakalolka@gmail.com
+  licenses:
+    - MIT
+    - Unlicense
 - repo: arch
   subrepo: extra
   srcname: qsv
@@ -17,12 +23,31 @@
   licenses:
     - MIT
     - Unlicense
+- repo: arch_testing
+  subrepo: extra-testing
+  srcname: qsv
+  binname: qsv
+  visiblename: qsv
+  version: 28.0.0
+  origversion: 28.0.0-2
+  status: newest
+  summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
+  licenses:
+    - MIT
+    - Unlicense
 - repo: homebrew
   srcname: qsv
   visiblename: qsv
   version: 28.0.0
   origversion: null
   status: newest
+  summary: Ultra-fast CSV data-wrangling toolkit
+- repo: homebrew
+  srcname: qsv
+  visiblename: qsv
+  version: HEAD
+  origversion: null
+  status: rolling
   summary: Ultra-fast CSV data-wrangling toolkit
 - repo: macports
   srcname: textproc/qsv
@@ -88,19 +113,6 @@
   licenses:
     - MIT
     - Unlicense
-- repo: nix_stable_25_11
-  srcname: qsvlite
-  visiblename: qsv
-  version: 10.0.0
-  origversion: null
-  status: outdated
-  summary: CSVs sliced, diced & analyzed
-  maintainers:
-    - detroyejr@outlook.com
-    - bakalolka@gmail.com
-  licenses:
-    - MIT
-    - Unlicense
 - repo: nix_stable_26_05
   srcname: qsv
   visiblename: qsv
@@ -137,9 +149,6 @@
   maintainers:
     - detroyejr@outlook.com
     - bakalolka@gmail.com
-  licenses:
-    - MIT
-    - Unlicense
 - repo: nix_unstable
   srcname: qsvlite
   visiblename: qsv
@@ -150,9 +159,6 @@
   maintainers:
     - detroyejr@outlook.com
     - bakalolka@gmail.com
-  licenses:
-    - MIT
-    - Unlicense
 - repo: parabola
   subrepo: extra
   srcname: qsv
