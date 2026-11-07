@@ -14,11 +14,11 @@ x install qsv
 
 ## Code insight
 
-Total: **411,977** lines of code across **327** files in the top 5 languages.
+Total: **412,254** lines of code across **327** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 293,893 | 33,464 | 28,070 | 246 |
+| Rust | 294,170 | 33,505 | 28,098 | 246 |
 | JavaScript | 31,930 | 42 | 11 | 11 |
 | Bash | 23,130 | 38 | 10 | 3 |
 | Json | 11,907 | 0 | 0 | 66 |
@@ -33,27 +33,27 @@ Total: **411,977** lines of code across **327** files in the top 5 languages.
 ## Release
 
 - **Latest**: `28.0.0` (2026-11-02)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 3,819 · **Forks**: 118 · **Open issues**: 952 · **Contributors**: 86
+- **Stars**: 3,819 · **Forks**: 119 · **Open issues**: 952 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 239 · **Merged PRs**: 3658 · **Open PRs**: 2 · **Closed issues**: 925 · **Open issues**: 27 · **Commits**: 18692
+- **Releases**: 239 · **Merged PRs**: 3666 · **Open PRs**: 0 · **Closed issues**: 927 · **Open issues**: 25 · **Commits**: 18701
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 4 | 211 | 2 | 24 | 5 | 508 |
-| last60d | 2026-09-07 | 6 | 342 | 2 | 87 | 8 | 946 |
-| 90d | 2026-08-08 | 7 | 459 | 2 | 143 | 13 | 1217 |
-| last180d | 2026-05-10 | 10 | 911 | 2 | 197 | 16 | 2526 |
-| 360d | 2025-11-11 | 24 | 1552 | 2 | 254 | 17 | 6247 |
-| last720d | 2024-11-16 | 45 | 2100 | 2 | 419 | 21 | 7828 |
+| 30d | 2026-10-08 | 4 | 208 | 0 | 26 | 3 | 521 |
+| last60d | 2026-09-08 | 6 | 347 | 0 | 85 | 6 | 959 |
+| 90d | 2026-08-09 | 6 | 459 | 0 | 143 | 11 | 1230 |
+| last180d | 2026-05-11 | 10 | 917 | 0 | 199 | 14 | 2539 |
+| 360d | 2025-11-12 | 24 | 1560 | 0 | 256 | 15 | 6260 |
+| last720d | 2024-11-17 | 45 | 2104 | 0 | 420 | 19 | 7830 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Total: **411,977** lines of code across **327** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **17** distros on [repology.org](https://repology.org/project/qsv). **7** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/qsv). **8** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -98,4 +98,4 @@ Install metadata for qsv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:59:43Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:22:31Z._
