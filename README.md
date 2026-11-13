@@ -14,11 +14,11 @@ x install qsv
 
 ## Code insight
 
-Total: **414,883** lines of code across **328** files in the top 5 languages.
+Total: **414,975** lines of code across **328** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 297,187 | 33,682 | 28,312 | 246 |
+| Rust | 297,267 | 33,687 | 28,315 | 246 |
 | JavaScript | 31,930 | 42 | 11 | 11 |
 | Bash | 23,130 | 38 | 10 | 3 |
 | Json | 11,924 | 0 | 0 | 67 |
@@ -38,22 +38,22 @@ Total: **414,883** lines of code across **328** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,831 · **Forks**: 118 · **Open issues**: 953 · **Contributors**: 86
+- **Stars**: 3,845 · **Forks**: 118 · **Open issues**: 953 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 239 · **Merged PRs**: 3694 · **Open PRs**: 1 · **Closed issues**: 932 · **Open issues**: 21 · **Commits**: 18743
+- **Releases**: 239 · **Merged PRs**: 3700 · **Open PRs**: 2 · **Closed issues**: 932 · **Open issues**: 21 · **Commits**: 18752
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 4 | 202 | 1 | 25 | 1 | 471 |
-| last60d | 2026-09-13 | 6 | 349 | 1 | 75 | 3 | 862 |
-| 90d | 2026-08-14 | 6 | 467 | 1 | 135 | 8 | 1236 |
-| last180d | 2026-05-16 | 10 | 928 | 1 | 201 | 12 | 2519 |
-| 360d | 2025-11-17 | 24 | 1585 | 1 | 257 | 13 | 6294 |
-| last720d | 2024-11-22 | 45 | 2124 | 1 | 420 | 17 | 7815 |
+| 30d | 2026-10-14 | 4 | 205 | 2 | 25 | 1 | 484 |
+| last60d | 2026-09-14 | 5 | 351 | 2 | 75 | 3 | 875 |
+| 90d | 2026-08-15 | 6 | 472 | 2 | 131 | 8 | 1249 |
+| last180d | 2026-05-17 | 10 | 929 | 2 | 201 | 12 | 2532 |
+| 360d | 2025-11-18 | 24 | 1590 | 2 | 257 | 13 | 6307 |
+| last720d | 2024-11-23 | 45 | 2129 | 2 | 420 | 17 | 7819 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for qsv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T09:00:33Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:24:48Z._
