@@ -14,11 +14,11 @@ x install qsv
 
 ## Code insight
 
-Total: **420,878** lines of code across **332** files in the top 5 languages.
+Total: **423,697** lines of code across **333** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 303,065 | 33,984 | 28,742 | 250 |
+| Rust | 305,882 | 34,163 | 28,911 | 251 |
 | JavaScript | 31,962 | 42 | 11 | 11 |
 | Bash | 23,146 | 38 | 10 | 3 |
 | Json | 11,924 | 0 | 0 | 67 |
@@ -33,27 +33,27 @@ Total: **420,878** lines of code across **332** files in the top 5 languages.
 ## Release
 
 - **Latest**: `29.0.0` (2026-11-15)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-21
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 3,833 · **Forks**: 118 · **Open issues**: 957 · **Contributors**: 86
+- **Stars**: 3,835 · **Forks**: 118 · **Open issues**: 958 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 240 · **Merged PRs**: 3730 · **Open PRs**: 3 · **Closed issues**: 932 · **Open issues**: 25 · **Commits**: 18812
+- **Releases**: 240 · **Merged PRs**: 3734 · **Open PRs**: 3 · **Closed issues**: 932 · **Open issues**: 26 · **Commits**: 18816
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 3 | 176 | 3 | 20 | 5 | 430 |
-| last60d | 2026-09-21 | 6 | 363 | 3 | 64 | 6 | 938 |
-| 90d | 2026-08-22 | 7 | 466 | 3 | 118 | 9 | 1274 |
-| last180d | 2026-05-24 | 10 | 930 | 3 | 201 | 16 | 2548 |
-| 360d | 2025-11-25 | 24 | 1610 | 3 | 257 | 16 | 6329 |
-| last720d | 2024-11-30 | 46 | 2154 | 3 | 420 | 21 | 7819 |
+| 30d | 2026-10-22 | 3 | 162 | 3 | 20 | 6 | 438 |
+| last60d | 2026-09-22 | 6 | 366 | 3 | 64 | 7 | 946 |
+| 90d | 2026-08-23 | 7 | 463 | 3 | 115 | 10 | 1282 |
+| last180d | 2026-05-25 | 10 | 929 | 3 | 201 | 17 | 2556 |
+| 360d | 2025-11-26 | 24 | 1612 | 3 | 255 | 17 | 6337 |
+| last720d | 2024-12-01 | 46 | 2155 | 3 | 420 | 22 | 7814 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for qsv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:07:18Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:31:31Z._
