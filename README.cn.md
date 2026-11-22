@@ -14,11 +14,11 @@ x install qsv
 
 ## 代码洞察
 
-合计: **423,697** 行代码（覆盖前 5 种语言、共 **333** 个文件）。
+合计: **426,827** 行代码（覆盖前 5 种语言、共 **334** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 305,882 | 34,163 | 28,911 | 251 |
+| Rust | 309,012 | 34,366 | 29,018 | 252 |
 | JavaScript | 31,962 | 42 | 11 | 11 |
 | Bash | 23,146 | 38 | 10 | 3 |
 | Json | 11,924 | 0 | 0 | 67 |
@@ -33,27 +33,27 @@ x install qsv
 ## 发布
 
 - **最新版本**: `29.0.0` (2026-11-15)
-- **最近提交**: 2026-11-21
+- **最近提交**: 2026-11-22
 - **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 3,835 · **Fork**: 118 · **开放 issue**: 958 · **贡献者**: 86
+- **Star**: 3,841 · **Fork**: 119 · **开放 issue**: 958 · **贡献者**: 86
 
 ## 累计统计
 
-- **发布数**: 240 · **已合并 PR**: 3734 · **开放 PR**: 3 · **已关闭 issue**: 932 · **开放 issue**: 26 · **提交数**: 18816
+- **发布数**: 240 · **已合并 PR**: 3744 · **开放 PR**: 2 · **已关闭 issue**: 933 · **开放 issue**: 25 · **提交数**: 18827
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 3 | 162 | 3 | 20 | 6 | 438 |
-| last60d | 2026-09-22 | 6 | 366 | 3 | 64 | 7 | 946 |
-| 90d | 2026-08-23 | 7 | 463 | 3 | 115 | 10 | 1282 |
-| last180d | 2026-05-25 | 10 | 929 | 3 | 201 | 17 | 2556 |
-| 360d | 2025-11-26 | 24 | 1612 | 3 | 255 | 17 | 6337 |
-| last720d | 2024-12-01 | 46 | 2155 | 3 | 420 | 22 | 7814 |
+| 30d | 2026-10-23 | 3 | 162 | 2 | 20 | 4 | 326 |
+| last60d | 2026-09-23 | 6 | 376 | 2 | 65 | 6 | 905 |
+| 90d | 2026-08-24 | 7 | 467 | 2 | 113 | 9 | 1241 |
+| last180d | 2026-05-26 | 10 | 937 | 2 | 201 | 16 | 2500 |
+| 360d | 2025-11-27 | 24 | 1619 | 2 | 256 | 16 | 6208 |
+| last720d | 2024-12-02 | 46 | 2161 | 2 | 421 | 21 | 7789 |
 
 ## Release 资产
 
@@ -75,8 +75,8 @@ x install qsv
 | [qsv-29.0.0-x86_64-pc-windows-msvc.zip](https://github.com/dathere/qsv/releases/download/29.0.0/qsv-29.0.0-x86_64-pc-windows-msvc.zip) | 393.1 MiB | `native/win/x64` |
 | [qsv-29.0.0-x86_64-unknown-linux-gnu.zip](https://github.com/dathere/qsv/releases/download/29.0.0/qsv-29.0.0-x86_64-unknown-linux-gnu.zip) | 412.7 MiB | `native/linux/x64/glibc` |
 | [qsv-29.0.0-x86_64-unknown-linux-musl.zip](https://github.com/dathere/qsv/releases/download/29.0.0/qsv-29.0.0-x86_64-unknown-linux-musl.zip) | 56.8 MiB | `native/linux/x64/musl` |
-| [qsv-data-wrangling-29.0.0.plugin](https://github.com/dathere/qsv/releases/download/29.0.0/qsv-data-wrangling-29.0.0.plugin) | 95.7 KiB | `other` |
-| [qsv-mcp-server-29.0.0.mcpb](https://github.com/dathere/qsv/releases/download/29.0.0/qsv-mcp-server-29.0.0.mcpb) | 5.6 MiB | `other` |
+| [qsv-data-wrangling-29.0.1.plugin](https://github.com/dathere/qsv/releases/download/29.0.0/qsv-data-wrangling-29.0.1.plugin) | 95.7 KiB | `other` |
+| [qsv-mcp-server-29.0.1.mcpb](https://github.com/dathere/qsv/releases/download/29.0.0/qsv-mcp-server-29.0.1.mcpb) | 5.6 MiB | `other` |
 
 ## 发行版状态
 
@@ -98,4 +98,4 @@ qsv 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T08:31:32Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T08:44:42Z._

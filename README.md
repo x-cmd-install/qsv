@@ -14,11 +14,11 @@ x install qsv
 
 ## Code insight
 
-Total: **423,697** lines of code across **333** files in the top 5 languages.
+Total: **426,827** lines of code across **334** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 305,882 | 34,163 | 28,911 | 251 |
+| Rust | 309,012 | 34,366 | 29,018 | 252 |
 | JavaScript | 31,962 | 42 | 11 | 11 |
 | Bash | 23,146 | 38 | 10 | 3 |
 | Json | 11,924 | 0 | 0 | 67 |
@@ -33,27 +33,27 @@ Total: **423,697** lines of code across **333** files in the top 5 languages.
 ## Release
 
 - **Latest**: `29.0.0` (2026-11-15)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-22
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 3,835 · **Forks**: 118 · **Open issues**: 958 · **Contributors**: 86
+- **Stars**: 3,841 · **Forks**: 119 · **Open issues**: 958 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 240 · **Merged PRs**: 3734 · **Open PRs**: 3 · **Closed issues**: 932 · **Open issues**: 26 · **Commits**: 18816
+- **Releases**: 240 · **Merged PRs**: 3744 · **Open PRs**: 2 · **Closed issues**: 933 · **Open issues**: 25 · **Commits**: 18827
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 3 | 162 | 3 | 20 | 6 | 438 |
-| last60d | 2026-09-22 | 6 | 366 | 3 | 64 | 7 | 946 |
-| 90d | 2026-08-23 | 7 | 463 | 3 | 115 | 10 | 1282 |
-| last180d | 2026-05-25 | 10 | 929 | 3 | 201 | 17 | 2556 |
-| 360d | 2025-11-26 | 24 | 1612 | 3 | 255 | 17 | 6337 |
-| last720d | 2024-12-01 | 46 | 2155 | 3 | 420 | 22 | 7814 |
+| 30d | 2026-10-23 | 3 | 162 | 2 | 20 | 4 | 326 |
+| last60d | 2026-09-23 | 6 | 376 | 2 | 65 | 6 | 905 |
+| 90d | 2026-08-24 | 7 | 467 | 2 | 113 | 9 | 1241 |
+| last180d | 2026-05-26 | 10 | 937 | 2 | 201 | 16 | 2500 |
+| 360d | 2025-11-27 | 24 | 1619 | 2 | 256 | 16 | 6208 |
+| last720d | 2024-12-02 | 46 | 2161 | 2 | 421 | 21 | 7789 |
 
 ## Release assets
 
@@ -75,8 +75,8 @@ Total: **423,697** lines of code across **333** files in the top 5 languages.
 | [qsv-29.0.0-x86_64-pc-windows-msvc.zip](https://github.com/dathere/qsv/releases/download/29.0.0/qsv-29.0.0-x86_64-pc-windows-msvc.zip) | 393.1 MiB | `native/win/x64` |
 | [qsv-29.0.0-x86_64-unknown-linux-gnu.zip](https://github.com/dathere/qsv/releases/download/29.0.0/qsv-29.0.0-x86_64-unknown-linux-gnu.zip) | 412.7 MiB | `native/linux/x64/glibc` |
 | [qsv-29.0.0-x86_64-unknown-linux-musl.zip](https://github.com/dathere/qsv/releases/download/29.0.0/qsv-29.0.0-x86_64-unknown-linux-musl.zip) | 56.8 MiB | `native/linux/x64/musl` |
-| [qsv-data-wrangling-29.0.0.plugin](https://github.com/dathere/qsv/releases/download/29.0.0/qsv-data-wrangling-29.0.0.plugin) | 95.7 KiB | `other` |
-| [qsv-mcp-server-29.0.0.mcpb](https://github.com/dathere/qsv/releases/download/29.0.0/qsv-mcp-server-29.0.0.mcpb) | 5.6 MiB | `other` |
+| [qsv-data-wrangling-29.0.1.plugin](https://github.com/dathere/qsv/releases/download/29.0.0/qsv-data-wrangling-29.0.1.plugin) | 95.7 KiB | `other` |
+| [qsv-mcp-server-29.0.1.mcpb](https://github.com/dathere/qsv/releases/download/29.0.0/qsv-mcp-server-29.0.1.mcpb) | 5.6 MiB | `other` |
 
 ## Distribution status
 
@@ -98,4 +98,4 @@ Install metadata for qsv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:31:31Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:44:42Z._
