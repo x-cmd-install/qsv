@@ -33,27 +33,27 @@ Total: **426,827** lines of code across **334** files in the top 5 languages.
 ## Release
 
 - **Latest**: `29.0.0` (2026-11-15)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-23
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 3,841 · **Forks**: 119 · **Open issues**: 958 · **Contributors**: 86
+- **Stars**: 3,846 · **Forks**: 120 · **Open issues**: 960 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 240 · **Merged PRs**: 3744 · **Open PRs**: 2 · **Closed issues**: 933 · **Open issues**: 25 · **Commits**: 18827
+- **Releases**: 240 · **Merged PRs**: 3745 · **Open PRs**: 4 · **Closed issues**: 933 · **Open issues**: 27 · **Commits**: 18830
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 3 | 162 | 2 | 20 | 4 | 326 |
-| last60d | 2026-09-23 | 6 | 376 | 2 | 65 | 6 | 905 |
-| 90d | 2026-08-24 | 7 | 467 | 2 | 113 | 9 | 1241 |
-| last180d | 2026-05-26 | 10 | 937 | 2 | 201 | 16 | 2500 |
-| 360d | 2025-11-27 | 24 | 1619 | 2 | 256 | 16 | 6208 |
-| last720d | 2024-12-02 | 46 | 2161 | 2 | 421 | 21 | 7789 |
+| 30d | 2026-10-24 | 3 | 155 | 4 | 20 | 6 | 330 |
+| last60d | 2026-09-24 | 6 | 374 | 4 | 65 | 8 | 909 |
+| 90d | 2026-08-25 | 7 | 464 | 4 | 112 | 11 | 1245 |
+| last180d | 2026-05-27 | 10 | 931 | 4 | 201 | 18 | 2504 |
+| 360d | 2025-11-28 | 24 | 1618 | 4 | 256 | 18 | 6212 |
+| last720d | 2024-12-03 | 45 | 2161 | 4 | 420 | 23 | 7770 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for qsv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T08:44:42Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T10:06:38Z._
