@@ -1,15 +1,3 @@
-- repo: parabola
-  subrepo: extra
-  srcname: qsv
-  binname: qsv
-  visiblename: qsv
-  version: 28.0.0
-  origversion: 28.0.0-1
-  status: outdated
-  summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
-  licenses:
-    - MIT
-    - Unlicense
 - repo: arch
   subrepo: extra
   srcname: qsv
@@ -55,8 +43,8 @@
   srcname: qsv
   binname: qsv
   visiblename: qsv
-  version: 23.0.1
-  origversion: 23.0.1-1
+  version: 28.0.0
+  origversion: 28.0.0-2
   status: outdated
   summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
   licenses:
@@ -183,6 +171,18 @@
   maintainers:
     - detroyejr@outlook.com
     - bakalolka@gmail.com
+- repo: parabola
+  subrepo: extra
+  srcname: qsv
+  binname: qsv
+  visiblename: qsv
+  version: 28.0.0
+  origversion: 28.0.0-1
+  status: outdated
+  summary: quicksilver data-wrangling toolkit (fork of xsv) for tabular data such as CSV
+  licenses:
+    - MIT
+    - Unlicense
 - repo: scoop
   subrepo: main
   binname: qsv
